@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Andrii 👋
 
-<!--
-**Shiw4se/Shiw4se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Software Engineer specializing in building scalable B2B SaaS platforms, complex data workflows, and AI-integrated applications. I focus on clean architecture, type safety, and robust database design.
 
-Here are some ideas to get you started:
+#### 💻 Tech Stack
+- **Frontend:** React, Next.js, TypeScript, React Query, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express.js
+- **Databases & ORMs:** PostgreSQL, MongoDB, Drizzle ORM, Prisma
+- **DevOps & Architecture:** Docker, REST APIs, Microservices workflows, GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Featured Work
+- **[Kanban Board](https://github.com/Shiw4se/kanban-app):** Full-stack task management application with drag-and-drop workflows. Built with React, NestJS, PostgreSQL, Prisma, and Docker.
+- **[Sports Venue Booking](https://github.com/Shiw4se/web):** Backend platform handling user scheduling, complex relational data, authentication, and availability logic.
+- **[Superhero Database](https://github.com/Shiw4se/superhero-app):** CRUD application managing catalog entities, REST APIs, and media uploads.
+
+---
+*Currently architecting a Node.js, Drizzle ORM, and PostgreSQL backend for an operational emergency response mapping application.*
