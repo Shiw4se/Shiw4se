@@ -20,7 +20,7 @@ Full-stack engineer working with Node.js, React and PostgreSQL. I build backends
 |---|---|---|
 | **PitchsideAI** · [App Store](https://apps.apple.com/ua/app/pitchside/id6770932402) | AI football analytics app: record a match, get ML-generated stats, player profiles with clips, social feed | Expo app + Node.js backend built and released by me: video uploads up to 7.5 GB, polling of ML jobs running up to 60 minutes, App Store release |
 | **[SportBook](https://github.com/Shiw4se/Sports-Venue-Booking-Platform)** | Sports venue booking platform: venues with photos and reviews, slot booking, emails and reminders, admin dashboard | Event-driven microservices over RabbitMQ (RPC + domain events), atomic slot reservation with no double booking, 84-check end-to-end suite in CI |
-| **[Real-time chat](https://github.com/Shiw4se/nest-react-chat)** | Chat with public and private rooms, invites, typing indicators and message history | NestJS + Socket.IO + Prisma, JWT for REST and WebSocket, repository pattern with caching, tests on both sides, CI/CD to EC2 |
+| **[Real-time chat](https://github.com/Shiw4se/nest-react-chat)** · [live demo](https://chat-frontend-cvg2.onrender.com) | Telegram-style chat: public and private rooms, replies, reactions, photos, presence, unread counters, 4 languages | NestJS + Socket.IO + Prisma, JWT for REST and WebSocket, image re-encoding to WebP with S3 storage, ~150 unit tests + API e2e + Playwright in CI |
 | **[Kanban Board](https://github.com/Shiw4se/kanban-app)** | Trello-style board with drag-and-drop and shareable board IDs | NestJS + Prisma API, Redux Toolkit with optimistic updates, Docker Compose, lint/test/build pipeline |
 
 ## 💻 Tech stack
